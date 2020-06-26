@@ -1,0 +1,9 @@
+{
+	"send_to": "{{email_address}}",
+	"locales": [{
+		"locale": "pt_br",
+		"subject": "Redefina sua senha",
+		"preview_body": "<p>Redefina a sua senha<br />",
+		"utm_tags": "&tmgr=abc123"
+	}]
+}
